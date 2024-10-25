@@ -1,16 +1,16 @@
-## startupcode / 스타트업코드
+## Younwoo Yim / 임연우
 
-안녕하세요! 🙋‍♂️ 개발자 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
-항상 이야기하는것을 좋아하고 비난이 아닌 비판은 언제든지 환영합니다. 🥰 모두 행복했으면 좋겠어요!
+Hello👋 Thanks for visiting my page.
+I am a software engineer recently graduated from University of Michigan-Ann Arbor, and received Bachelor of Computer Science.
 <br />
 <br />
 <br />
 
 ## My values
 
-😎 모든것은 재미있어야 합니다<br />
-👌 안전성을 겸비한 속도를 지향 합니다<br />
-🦻 쉽게 말하고 어렵게 들으려고 노력합니다<br />
+⚀ 끈기와 의지<br />
+⚁ 계속 배우려는 자세<br />
+⚂ 넓은 시야와 생각<br />
 <br />
 <br />
 <br />
