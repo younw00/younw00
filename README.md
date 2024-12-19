@@ -1,6 +1,7 @@
 ## Younwoo Yim / 임연우
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&pause=1000&color=010203&width=435&lines=Visit+my+web+page!+%F0%9F%8D%80)](https://git.io/typing-svg)
+
 https://younw00.github.io/
 
 Hello👋 Thanks for visiting my page.
